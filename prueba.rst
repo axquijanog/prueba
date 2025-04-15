@@ -18,7 +18,7 @@ Este módulo añade un nuevo menú en el sistema:
 
 #. Go to Configuration / Users / Users choose user and set Roles:
 
-.. image:: https://raw.githubusercontent.com/OCA/server-backend/base_user_role/static/description/user_form.png
+.. image:: https://raw.githubusercontent.com/axquijanog/prueba/refs/heads/main/menu.PNG
 
 Requisitos
 ----------
