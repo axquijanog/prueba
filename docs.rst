@@ -16,57 +16,91 @@ Menú
 Este módulo añade un nuevo menú en el sistema:
 
 .. image:: ./assets/menu.PNG
+   :width: 60%
+   :align: center
+
+
+Tabla de Contenidos
+-------------------
+
+.. contents::
+   :local:
+
+Uso
+===
+
+#. Ir al módulo de *Proyectos / Tareas*.
+#. Usar las opciones del menú lateral para acceder a:
+   - *Mis Tareas*
+   - *Todas las Tareas*
+   - *Tareas por Usuario*
+#. En *Tareas por Usuario*, seleccionar un usuario desde el asistente para ver sus tareas activas.
+
+Capturas
+--------
+
+**Menú principal**
+
+.. image:: ./assets/menu.png
    :width: 80%
    :align: center
 
-Requisitos
-----------
+**Vista de Mis Tareas**
 
-- Odoo 16+ (ajustar según versión usada)
-- Módulo base ``project`` instalado
+.. image:: ./assets/view_my_tasks.PNG
+   :width: 80%
+   :align: center
 
-Instalación
------------
+**Vista de Todas las Tareas**
 
-1. Copiar el módulo en la carpeta ``addons``.
-2. Reiniciar el servidor de Odoo.
-3. Activar el modo desarrollador.
-4. Instalar el módulo desde el menú de Aplicaciones o con el siguiente comando:
+.. image:: ./assets/view_all_tasks.PNG
+   :width: 80%
+   :align: center
 
-::
+**Vista de Tareas por Usuario**
 
-    $ odoo -u nombre_del_modulo -d nombre_base_datos
+.. image:: ./assets/view_user_tasks.PNG
+   :width: 80%
+   :align: center
 
-Seguridad
----------
+.. image:: ./assets/selection_user.PNG
+   :width: 80%
+   :align: center
 
-- El submenú **All Tasks** solo es accesible para usuarios con permisos de administrador (``base.group_system``).
-- Los otros menús están disponibles para todos los usuarios autenticados.
+.. image:: ./assets/view_user_selection_tasks.PNG
+   :width: 80%
+   :align: center
 
-Estructura del Módulo
----------------------
+Seguimiento de Errores
+======================
 
-::
+Los errores se rastrean en `GitHub Issues <https://github.com/TU_REPOSITORIO_GITHUB/issues>`_.  
+Si encuentras algún problema, por favor repórtalo con los pasos detallados para reproducirlo.
 
-    project_task_extension/
-    ├── __manifest__.py
-    ├── __init__.py
-    ├── models/
-    │   └── ...
-    ├── views/
-    │   └── project_task_views.xml
-    ├── security/
-    │   ├── ir.model.access.csv
-    │   └── security.xml
-    └── README.rst
+Créditos
+========
 
-Autor
------
+Autores
+~~~~~~~
 
-- Desarrollado por Tu Nombre o Empresa
-- Email: tu@email.com
+* Tu nombre o el de tu organización
+
+Colaboradores
+~~~~~~~~~~~~~
+
+* Aquí puedes listar otros contribuidores.
+
+Mantenedores
+~~~~~~~~~~~~
+
+Este módulo es mantenido por tu equipo o entidad.
+
+.. image:: https://odoo-community.org/logo.png
+   :alt: Asociación de la Comunidad de Odoo (OCA)
+   :target: https://odoo-community.org
 
 Licencia
---------
+========
 
-Este módulo está bajo la licencia LGPL-3.0 o la que se defina en el manifiesto.
+Licenciado bajo la LGPL v3.0 o superior.  
+Este módulo no forma parte de un repositorio oficial de la OCA, pero sigue sus buenas prácticas de desarrollo.
