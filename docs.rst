@@ -25,9 +25,9 @@ Uso
 
 #. Ir al módulo de *Proyectos / Tareas*.
 #. Usar las opciones del menú lateral para acceder a:
-   - *Mis Tareas*
-   - *Todas las Tareas*
-   - *Tareas por Usuario*
+   - *My Tasks*
+   - *All Tasks*
+   - *User Tasks*
 #. En *Tareas por Usuario*, seleccionar un usuario desde el asistente para ver sus tareas activas.
 
 Capturas
@@ -35,34 +35,34 @@ Capturas
 
 **Menú principal**
 
-.. image:: ./assets/menu.png
-   :width: 80%
+.. image:: ./assets/menu.PNG
+   :width: 70%
    :align: center
 
-**Vista de Mis Tareas**
+**Vista de My Tasks**
 
 .. image:: ./assets/view_my_tasks.PNG
-   :width: 80%
+   :width: 70%
    :align: center
 
-**Vista de Todas las Tareas**
+**Vista de All tasks**
 
 .. image:: ./assets/view_all_tasks.PNG
-   :width: 80%
+   :width: 70%
    :align: center
 
-**Vista de Tareas por Usuario**
+**Vista de User tasks**
 
 .. image:: ./assets/view_user_tasks.PNG
-   :width: 80%
+   :width: 70%
    :align: center
 
 .. image:: ./assets/selection_user.PNG
-   :width: 80%
+   :width: 70%
    :align: center
 
 .. image:: ./assets/view_user_selection_tasks.PNG
-   :width: 80%
+   :width: 70%
    :align: center
 
 Seguimiento de Errores
