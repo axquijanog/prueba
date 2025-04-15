@@ -34,33 +34,33 @@ Screenshots
 
 **Main Menu**
 
-.. image:: ./assets/menu.png
+.. image:: ./assets/menu.PNG
    :width: 70%
    :align: center
 
 **My Tasks View**
 
-.. image:: ./assets/view_my_tasks.png
+.. image:: ./assets/view_my_tasks.PNG
    :width: 70%
    :align: center
 
 **All Tasks View**
 
-.. image:: ./assets/view_all_tasks.png
+.. image:: ./assets/view_all_tasks.PNG
    :width: 70%
    :align: center
 
 **User Tasks View**
 
-.. image:: ./assets/view_user_tasks.png
+.. image:: ./assets/view_user_tasks.PNG
    :width: 70%
    :align: center
 
-.. image:: ./assets/selection_user.png
+.. image:: ./assets/selection_user.PNG
    :width: 70%
    :align: center
 
-.. image:: ./assets/view_user_selection_tasks.png
+.. image:: ./assets/view_user_selection_tasks.PNG
    :width: 70%
    :align: center
 
