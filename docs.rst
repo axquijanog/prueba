@@ -1,7 +1,7 @@
-Project Task Extension - Custom Task Views
+Project Task 
 ==========================================
 
-Este módulo extiende la funcionalidad del módulo ``project_task`` de Odoo, agregando un menú personalizado llamado **Tasks** con tres vistas específicas para facilitar la gestión de tareas por parte de usuarios y administradores.
+Este módulo extiende la funcionalidad del módulo ``project`` de Odoo, agregando un menú personalizado llamado **Tasks** con tres vistas específicas para facilitar la gestión de tareas por parte de usuarios y administradores.
 
 Características
 ---------------
@@ -10,17 +10,14 @@ Características
 - 👁️ **All Tasks**: Vista disponible solo para administradores. Permite visualizar todas las tareas del sistema, con sus respectivos estados y responsables.
 - 🔍 **User Tasks**: Permite seleccionar un usuario específico y visualizar las tareas asignadas, simulando cómo las vería ese usuario.
 
-Menús
+Menú
 -----
 
 Este módulo añade un nuevo menú en el sistema:
 
-::
-
-    Tasks
-    ├── My Tasks
-    ├── All Tasks
-    └── User Tasks
+.. image:: assets/menu.png
+   :width: 80%
+   :align: center
 
 Requisitos
 ----------
