@@ -16,7 +16,7 @@ Menús
 
 Este módulo añade un nuevo menú en el sistema:
 
-.. image:: https://github.com/axquijanog/prueba/blob/main/menu.PNG
+.. image:: ./menu.PNG
    :alt: menu tasks
    :width: 400px
 
