@@ -16,7 +16,7 @@ Menús
 
 Este módulo añade un nuevo menú en el sistema:
 
-.. image:: ./menu.PNG
+.. image:: ./assets/
    :alt: menu tasks
    :width: 400px
 
