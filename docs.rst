@@ -15,7 +15,7 @@ Menú
 
 Este módulo añade un nuevo menú en el sistema:
 
-.. image:: assets/menu.png
+.. image:: assets\menu.png
    :width: 80%
    :align: center
 
