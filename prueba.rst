@@ -16,14 +16,9 @@ Menús
 
 Este módulo añade un nuevo menú en el sistema:
 
+#. Go to Configuration / Users / Users choose user and set Roles:
+
 .. image:: assets/menu.PNG
-
-
-
-    Tasks
-    ├── My Tasks
-    ├── All Tasks
-    └── User Tasks
 
 Requisitos
 ----------
