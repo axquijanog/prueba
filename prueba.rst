@@ -20,13 +20,6 @@ Este módulo añade un nuevo menú en el sistema:
 
 .. image:: https://raw.githubusercontent.com/OCA/server-backend/base_user_role/static/description/user_form.png
 
-
-
-    Tasks
-    ├── My Tasks
-    ├── All Tasks
-    └── User Tasks
-
 Requisitos
 ----------
 
