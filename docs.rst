@@ -78,6 +78,7 @@ Autores
 ~~~~~~~
 
 .. image:: https://d-3system.com.au/wp-content/uploads/2020/05/Dimension3_Systems_460x159.png.webp
+   :width: 40%
    :alt: Dimension 3 systems
    :target: https://d-3system.com.au/
 
