@@ -78,7 +78,7 @@ Autores
 ~~~~~~~
 
 .. image:: https://d-3system.com.au/wp-content/uploads/2020/05/Dimension3_Systems_460x159.png.webp
-   :width: 40%
+   :width: 25%
    :alt: Dimension 3 systems
    :target: https://d-3system.com.au/
 
@@ -93,6 +93,7 @@ Mantenedores
 Este módulo es mantenido por tu equipo o entidad.
 
 .. image:: https://d-3system.com.au/wp-content/uploads/2020/05/Dimension3_Systems_460x159.png.webp
+   :width: 25%
    :alt: Dimension 3 systems
    :target: https://d-3system.com.au/
 
