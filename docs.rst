@@ -1,14 +1,14 @@
 Project Task 
 ==========================================
 
-Este módulo extiende la funcionalidad del módulo ``project`` de Odoo, agregando un menú personalizado llamado **Tasks** con tres vistas específicas para facilitar la gestión de tareas por parte de usuarios y administradores.
+Este módulo extiende la funcionalidad del módulo ``project`` de Odoo, agregando un menú personalizado llamado **User Tasks** con tres vistas específicas para facilitar la gestión de tareas por parte de usuarios y administradores.
 
 Características
 ---------------
 
 - 📌 **My Tasks**: Muestra únicamente las tareas asignadas al usuario conectado.
 - 👁️ **All Tasks**: Vista disponible solo para administradores. Permite visualizar todas las tareas del sistema, con sus respectivos estados y responsables.
-- 🔍 **User Tasks**: Permite seleccionar un usuario específico y visualizar las tareas asignadas, simulando cómo las vería ese usuario.
+- 🔍 **User Tasks**: Permite ver y modificar los estados personales de un usuario especifico.
 
 Menú
 ----
@@ -77,21 +77,23 @@ Créditos
 Autores
 ~~~~~~~
 
-* Tu nombre o el de tu organización
+.. image:: https://d-3system.com.au/wp-content/uploads/2020/05/Dimension3_Systems_460x159.png.webp
+   :alt: Dimension 3 systems
+   :target: https://d-3system.com.au/
 
 Colaboradores
 ~~~~~~~~~~~~~
 
-* Aquí puedes listar otros contribuidores.
+* Juan Pablo Arcos 
 
 Mantenedores
 ~~~~~~~~~~~~
 
 Este módulo es mantenido por tu equipo o entidad.
 
-.. image:: https://odoo-community.org/logo.png
-   :alt: Asociación de la Comunidad de Odoo (OCA)
-   :target: https://odoo-community.org
+.. image:: https://d-3system.com.au/wp-content/uploads/2020/05/Dimension3_Systems_460x159.png.webp
+   :alt: Dimension 3 systems
+   :target: https://d-3system.com.au/
 
 Licencia
 ========
