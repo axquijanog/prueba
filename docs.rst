@@ -4,14 +4,14 @@ Project Task
 Este módulo extiende la funcionalidad del módulo ``project`` de Odoo, agregando un menú personalizado llamado **Tasks** con tres vistas específicas para facilitar la gestión de tareas por parte de usuarios y administradores.
 
 Características
-===============
+---------------
 
 - 📌 **My Tasks**: Muestra únicamente las tareas asignadas al usuario conectado.
 - 👁️ **All Tasks**: Vista disponible solo para administradores. Permite visualizar todas las tareas del sistema, con sus respectivos estados y responsables.
 - 🔍 **User Tasks**: Permite seleccionar un usuario específico y visualizar las tareas asignadas, simulando cómo las vería ese usuario.
 
 Menú
-====
+----
 
 Este módulo añade un nuevo menú en el sistema:
 
@@ -20,14 +20,8 @@ Este módulo añade un nuevo menú en el sistema:
    :align: center
 
 
-Tabla de Contenidos
-===================
-
-.. contents::
-   :local:
-
 Uso
-===
+---
 
 #. Ir al módulo de *Proyectos / Tareas*.
 #. Usar las opciones del menú lateral para acceder a:
@@ -72,13 +66,13 @@ Capturas
    :align: center
 
 Seguimiento de Errores
-======================
+----------------------
 
 Los errores se rastrean en `GitHub Issues <https://github.com/TU_REPOSITORIO_GITHUB/issues>`_.  
 Si encuentras algún problema, por favor repórtalo con los pasos detallados para reproducirlo.
 
 Créditos
-========
+--------
 
 Autores
 ~~~~~~~
