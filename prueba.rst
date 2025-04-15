@@ -15,7 +15,7 @@ Menu
 
 This module adds a new menu to the system:
 
-.. image:: ./assets/menu.png
+.. image:: ./assets/menu.PNG
    :width: 60%
    :align: center
 
