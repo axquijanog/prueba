@@ -1,7 +1,7 @@
 Product Image  
 =============
 
-Este módulo amplía la funcionalidad del módulo ``sale_management`` de Odoo. Permite mostrar la imagen del producto tanto en el reporte PDF de ventas como en el portal del cliente.
+Este módulo amplía la funcionalidad del módulo ``sale_management`` de Odoo, permite mostrar la imagen del producto tanto en el reporte PDF de ventas como en el portal del cliente.
 
 
 Features

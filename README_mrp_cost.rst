@@ -15,18 +15,18 @@ Configuración
 
 Para configurar este módulo, dirígete a ``Manufacturing > Configuration > Settings``. Allí, activa la opción ``Work Orders``. Al seleccionarla, se mostrará la casilla ``Active Operation Costs``, la cual también debe estar marcada.
 
-.. image:: ./static/description/menu.PNG
+.. image:: ./static/description/mrp_cost/menu.PNG
    :width: 60%
    :align: center
 
-.. image:: ./static/description/opc_work_orders.png
+.. image:: ./static/description/mrp_cost/opc_work_orders.png
    :width: 60%
    :align: center
 
-.. image:: ./static/description/opc_active_operation_costs.png
+.. image:: ./static/description/mrp_cost/opc_active_operation_costs.png
    :width: 60%
    :align: center
-   
+
 Usage
 -----
 
