@@ -17,12 +17,12 @@ Configuration
 
 Para configurar este módulo, dirígete a ``Sales > Configuration > Settings``. Allí, activa la opción ``Print product image``. Al seleccionarla, se mostrará la casilla ``Active Operation Costs``, la cual debe estar marcada.
 
-.. image:: ./static/descripction/product_image/menu_config.PNG
+.. image:: ./static/description/product_image/menu_config.PNG
    :width: 60%
    :align: center
 
 
-.. image:: ./static/descripction/product_image/opc_report_product.PNG
+.. image:: ./static/description/product_image/opc_report_product.PNG
    :width: 60%
    :align: center
 
@@ -36,7 +36,7 @@ Si la instalación y configuración del módulo fue correcta, deberías observar
 - En el **portal del cliente**, al abrir una orden de venta, cada línea incluye la imagen del producto correspondiente.
 - No se presentan errores al generar el reporte PDF ni al acceder a la orden desde el portal.
 
-.. image:: ./static/descripction/product_image/product_image.PNG
+.. image:: ./static/description/product_image/product_image.PNG
    :width: 60%
    :align: center
 
