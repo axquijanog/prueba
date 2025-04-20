@@ -19,11 +19,11 @@ Para configurar este módulo, dirígete a ``Manufacturing > Configuration > Sett
    :width: 60%
    :align: center
 
-.. image:: ./static/description/mrp_cost/opc_work_orders.png
+.. image:: ./static/description/mrp_cost/opc_work_order.png
    :width: 60%
    :align: center
 
-.. image:: ./static/description/mrp_cost/opc_active_operation_costs.png
+.. image:: ./static/description/mrp_cost/opc_active_operation_cost.png
    :width: 60%
    :align: center
 
