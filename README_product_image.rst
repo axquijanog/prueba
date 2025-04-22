@@ -15,7 +15,8 @@ Features
 Configuration
 -------------
 
-Para configurar este módulo, dirígete a ``Sales > Configuration > Settings``. Allí, activa la opción ``Print product image``. Al seleccionarla, se mostrará la casilla ``Active Operation Costs``, la cual debe estar marcada.
+Para configurar este módulo, dirígete a ``Sales > Configuration > Settings``. Allí, activa la opción ``Print product image``.
+
 
 .. image:: ./static/description/product_image/menu_config.PNG
    :width: 60%
