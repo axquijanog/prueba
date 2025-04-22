@@ -5,7 +5,7 @@
 Available addons
 ----------------
 addon | summaty | origin 
---- | --- | --- | ---
+--- | --- | --- 
 [assets](assets/)| descripcion | D-3System OCA 3-party Jay
 [static](static/)| otra descripcion | D-3System OCA 3-party Jay
 
